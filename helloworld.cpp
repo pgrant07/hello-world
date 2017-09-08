@@ -9,5 +9,6 @@ int main(){
 		cout<<i<<" ";
 	}
 	cout<<endl;
+	cout<<"This is a test!!!"<<endl;
   	return 0;
 }
